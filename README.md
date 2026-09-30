@@ -16,3 +16,11 @@ Através do nosso braço de impacto social, o **Projeto Catraca**, democratizamo
 Este projeto é de autoria original e intelectual de **PAULO ROBERTO MACEDO DE PINHO**. O uso, modificação e replicação deste código são permitidos de forma aberta, desde que mantidos obrigatoriamente os créditos ao fundador original no topo de qualquer arquivo derivado físico ou digital.
 
 *Copyright © 2026, Eixo Neural Semicondutores. Todos os direitos de idealização original preservados a Paulo Roberto Macedo de Pinho.*
+
+## 📊 Viabilidade Econômica & Modelo de Negócios
+A Eixo Neural Semicondutores opera sob o modelo de **Subsídio Cruzado**, garantindo a sustentabilidade financeira da empresa ao mesmo tempo em que cumpre seu papel social:
+
+1. **Iniciativa Catraca (Social):** Venda de kits educacionais de IA a preço de custo (alvo de R$ 25,00) para redes públicas de ensino através de editais de fomento.
+2. **Eixo Neural Industrial (Comercial):** Venda corporativa do mesmo ecossistema de silício para automação industrial, segurança urbana e monitoramento agrícola com alta margem de lucro.
+3. **Serviços Avançados:** Contratos de customização de hardware (*ASIC Design*) e suporte técnico para grandes corporações e órgãos governamentais.
+
